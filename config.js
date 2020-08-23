@@ -18,7 +18,7 @@ var config = {
     desc: {
         turn_on: "请点击这里！",
         play: "这里是音乐哦！",
-        bannar_coming: "颜色",
+        bannar_coming: "这里是生日快乐牌！",
         balloons_flying: "好像少了点东西",
         cake_fadein: "好恰的蛋糕",
         light_candle: "独一份的蜡烛",
